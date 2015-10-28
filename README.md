@@ -7,3 +7,5 @@ Steps
 2. To build this workspace, navigate to \cloudApp in command prompt, and fire sencha app build
 3. give sencha app watch
 Go to browser and load the app at - http://localhost:1842/build/production/cloudApp
+
+Reference: https://docs.sencha.com/cmd/5.x/cmd_packages/cmd_creating_packages.html
